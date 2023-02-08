@@ -7,7 +7,7 @@
 
 ## 💻 Sobre
 
-Página de links, na propósta de ser usada para cosulta de modulos, feita para dilvulgar os modulosrealizados peloo aluno <a href="https://github.com/asolipa1">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
+Página de links, na propósta de ser usada para cosulta de modulos, feita para dilvulgar os modulos realizados pelo aluno <a href="https://github.com/asolipa1">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
 
 
 ## 🧠 Tecnologias
